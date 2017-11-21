@@ -1,0 +1,6 @@
+<!--pages/me/me.wxml-->
+<view>
+  <video src='{{src}}'></video>
+  <button bindtap='bindButtonTap'>get video</button>
+</view>
+<view>{{screen}}</view>

@@ -1,0 +1,3 @@
+<template name="tem">
+  <view wx:for="{{array}}">{{item}}</view>
+</template>

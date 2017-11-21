@@ -1,0 +1,25 @@
+/* pages/mapdetail/mapdetail.wxss */
+.milktea{
+  height: 200rpx;
+  text-align: center;
+  line-height: 200rpx;
+  background-color: lightblue;
+}
+.netbar{
+  height: 200rpx;
+  text-align: center;
+  line-height: 200rpx;
+  background-color: lightgreen;
+}
+.xx{
+  height: 200rpx;
+  text-align: center;
+  line-height: 200rpx;
+  background-color: lightyellow;
+}
+.kfc{
+  height: 200rpx;
+  text-align: center;
+  line-height: 200rpx;
+  background-color: lightpink;
+}

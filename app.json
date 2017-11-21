@@ -1,0 +1,30 @@
+{
+  "pages":[
+    "pages/index/index",
+    "pages/map/map",
+    "pages/mapdetail/mapdetail",
+    "pages/netbar/netbar",
+    "pages/xx/xx",
+    "pages/kfc/kfc"
+  ],
+  "window":{
+    "backgroundTextStyle":"dark",
+    "navigationBarBackgroundColor": "#FFCC00",
+    "navigationBarTitleText": "WeChat",
+    "navigationBarTextStyle":"black",
+    "backgroundColor": "#000000"
+  },
+  "tabBar":{
+    "color": "#000000",
+    "selectedColor": "#0082D7",
+    "borderStyle": "black",
+    "list": [{
+      "pagePath": "pages/index/index",
+      "text": "首页"
+    },
+    {
+      "pagePath": "pages/mapdetail/mapdetail",
+      "text": "地图"
+    }]
+  }
+}

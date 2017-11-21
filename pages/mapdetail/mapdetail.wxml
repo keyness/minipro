@@ -1,0 +1,5 @@
+<!--pages/mapdetail/mapdetail.wxml-->
+<view class='milktea' bindtap='milktea'>奶茶</view>
+<view class='netbar' bindtap='netbar'>网咖</view>
+<view class='xx' bindtap='xx'>xx</view>
+<view class='kfc' bindtap='kfc'>金拱门</view>

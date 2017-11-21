@@ -1,0 +1,3 @@
+<view>
+  <view bindtap='bindmap' data-key="{{item.location}}" style="font-size: 15px;border-style: groove;margin: 0;" wx:for="{{address}}">{{item.title}}---{{item._distance}}米</view>
+</view>
